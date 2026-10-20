@@ -20,3 +20,4 @@ Output goes to `briefs/<company>.md`.
 ## Add before publishing
 - A sample brief for one real company in `examples/`
 - A short note on what the self-check caught and where the agent still gets things wrong
+# Job-Research-Agent
