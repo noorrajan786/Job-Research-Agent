@@ -3,3 +3,4 @@ __pycache__/
 agent_old.py
 posting.txt
 .env
+.DS_Store
